@@ -26,3 +26,26 @@ Git · GitHub · VS Code
 
 **Currently Exploring**  
 Backend development · Software architecture · APIs · Cloud · Networking
+
+
+---
+
+## 🚀 Featured Projects
+
+### ⚡ TaskARC
+My first complete software project — a task management REST API built with Python, FastAPI, and SQLite.
+I built it to get hands-on with backend development, API design, database operations, and connecting a backend to a simple web interface.
+
+**Tech:** Python · FastAPI · SQLite · REST API
+
+### 📦 Employee & Inventory Management System
+A web-based application I built to manage employee and inventory records using Python, Flask, and MySQL.
+Working on this project gave me practical experience with CRUD operations, database integration, and understanding how the different parts of a web application work together.
+
+**Tech:** Python · Flask · MySQL · HTML · CSS
+
+### 📡 SerialScope
+A project that brings together my electronics background and growing interest in software development.
+SerialScope focuses on monitoring and working with serial communication, giving me hands-on experience with serial data, debugging, and building a practical software tool around an electronics-related problem.
+
+**Tech:** Python · Serial Communication · Embedded Systems
