@@ -56,3 +56,13 @@ SerialScope focuses on monitoring and working with serial communication, giving 
 I'm spending more time on the software side of engineering and learning by building things rather than just following tutorials on YT.
 
 Right now, I'm exploring **Python, REST APIs, databases, cloud, and networking**. I'm still figuring things out, experimenting with different approaches, and trying to understand how the different pieces of a software system fit together.
+
+
+## 📫 Connect With Me
+
+**Ideas are good. Make them better. ⚡**
+
+**LinkedIn:** [Omi](https://www.linkedin.com/in/contactomkarkarlekar/)  
+**Portfolio:** [DoomCore](https://doomcore.netlify.app)
+
+📡 **FRIDAY, bring them online.**
