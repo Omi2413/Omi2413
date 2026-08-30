@@ -49,3 +49,10 @@ A project that brings together my electronics background and growing interest in
 SerialScope focuses on monitoring and working with serial communication, giving me hands-on experience with serial data, debugging, and building a practical software tool around an electronics-related problem.
 
 **Tech:** Python · Serial Communication · Embedded Systems
+
+
+## 🌱 Currently Exploring
+
+I'm spending more time on the software side of engineering and learning by building things rather than just following tutorials on YT.
+
+Right now, I'm exploring **Python, REST APIs, databases, cloud, and networking**. I'm still figuring things out, experimenting with different approaches, and trying to understand how the different pieces of a software system fit together.
