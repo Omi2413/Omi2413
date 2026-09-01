@@ -27,7 +27,6 @@ Git · GitHub · VS Code
 **Currently Exploring**  
 Backend development · Software architecture · APIs · Cloud · Networking
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -50,6 +49,12 @@ SerialScope focuses on monitoring and working with serial communication, giving 
 
 **Tech:** Python · Serial Communication · Embedded Systems
 
+### 🌐 EdgePulse
+A Python-based IoT monitoring platform that simulates edge devices, collects telemetry, evaluates device health, detects abnormal conditions, and generates alerts through a web dashboard.
+
+**Tech:** Python • FastAPI • SQLite • REST API • HTML/CSS/JavaScript
+
+---
 
 ## 🌱 Currently Exploring
 
@@ -57,6 +62,7 @@ I'm spending more time on the software side of engineering and learning by build
 
 Right now, I'm exploring **Python, REST APIs, databases, cloud, and networking**. I'm still figuring things out, experimenting with different approaches, and trying to understand how the different pieces of a software system fit together.
 
+---
 
 ## 📫 Connect With Me
 
